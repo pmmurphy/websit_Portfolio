@@ -1,0 +1,28 @@
+body{
+	background-color: silver;
+}
+h2{
+	font-family: Copperplate;
+	text-align: center;
+	margin-top: 268px;
+	color: red;
+}
+
+p{
+	color: red;
+	font-family: Copperplate;
+	font-size: 20px;
+	text-align: center;
+}
+
+a{
+	color: red;
+	text-align: center;
+	margin-left: 567px;
+}
+
+.media{
+	margin-left: 550px;
+	margin-top: 50px;
+
+}

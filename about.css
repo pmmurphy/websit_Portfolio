@@ -1,0 +1,64 @@
+body{
+	background-color: black;
+
+}
+
+#center_container{
+	background-image: url(film.jpg);
+	background-repeat: no-repeat;
+	height: 850px;
+	background-size: cover;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-top: -40px;
+	margin-bottom: 0px;
+
+}
+a{
+	text-decoration: none;
+	list-style-type: none;
+	color: white;
+	font-size: 37px;
+
+}
+
+nav ul{
+	text-align: center;
+	list-style-type: none;
+}
+
+nav ul li{
+	padding: 10px;
+	margin-top: 40px;
+	font-family: Copperplate;
+
+}
+
+nav ul a:hover{
+
+}
+#link1 a:hover{
+	color: coral;
+}
+
+#link3 a:hover{
+	color: gold;
+}
+
+#link4 a:hover{
+	color: darkred;
+}
+
+p{
+	color: lightgreen;
+	padding: 23px;
+	font-family: Copperplate;
+	font-size: 18px;
+	line-height: 25px;
+	
+}
+
+.seuss{
+	float: right;
+}
+
