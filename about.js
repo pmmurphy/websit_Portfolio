@@ -7,3 +7,4 @@
 // I will add an interest page
 
 // need to add image to contact page
+// need to fix pinterest icon
