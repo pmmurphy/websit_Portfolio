@@ -1,0 +1,58 @@
+a.navbar {
+	color: white;
+	font-size: 26px;
+	font-weight: 800;
+	font-family: Georgia;
+	text-shadow: 1px 2px darkslategrey;
+}
+
+a:link {
+	text-decoration: none;
+
+}
+
+nav {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: black;
+	border: 1px solid slategrey;
+	padding: 0px;
+	margin-bottom: 30px;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	padding: 5px 40px;
+	margin: 0px 50px;
+}
+
+h2{
+	margin-top: 60px;
+}
+img{
+	margin-top: 40px;
+}
+
+#mission{
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-right: 119px;
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+}
+
+#vision{
+	margin-top: 30px;
+	margin-left: 187px;
+	margin-right: 129px;
+	font-size: 18px;
+	line-height: 30px;
+	text-align: center;
+}
+}

@@ -8,3 +8,10 @@
 
 // need to add image to contact page
 // need to fix pinterest icon
+// add images to interest page
+$(document).ready(
+	function(){
+		$(".seuss").delay(1500).fadeIn(5500);
+		$(".seuss").animate({color: lightgreen});
+
+	});

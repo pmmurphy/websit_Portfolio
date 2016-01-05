@@ -49,17 +49,24 @@ nav ul a:hover{
 	color: darkred;
 }
 
-p{
+.web{
+	
 	color: lightgreen;
 	padding: 23px;
 	font-family: Copperplate;
 	font-size: 18px;
 	line-height: 25px;
-	
-	
+		
 }
 
 .seuss{
+	display: none;
 	float: right;
+	color: lightgreen;
+	font-family: Copperplate;
+	font-size: 18px;
+	line-height: 25px;
+	margin-right: 30px;
+	margin-top: 145px;
 }
 
